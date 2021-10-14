@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "korn 7722"
-  avatar           : "assets/images/bok_DaeG.jpg" # path of avatar image, e.g. 
+  avatar           : "https://github.com/gayeongkim1217/gayeongkim1217.github.io/blob/master/assets/images/bok_DaeG.jpg?raw=true" # path of avatar image, e.g. 
   bio              : "I am an **amazing detective slash genius**"
   location         : "Somewhere"
   email            :
