@@ -102,9 +102,9 @@ analytics:
 # Site Author
 author:
   name             : "korn 7722"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bok_DaeG.jpg" # path of avatar image, e.g. 
   bio              : "I am an **amazing detective slash genius**"
-  location         : "Somewhere over the rainbow"
+  location         : "Somewhere"
   email            :
   links:
     - label: "Email"
